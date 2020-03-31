@@ -1,0 +1,19 @@
+[	{
+		"col": 1,
+		"row": 1,
+		"keyword": "Vue",
+		"msg": {
+			"title": "Vue",
+			"content": "渐进式JS框架"
+		}
+	},
+	{
+		"col": 1,
+		"row": 2,
+		"keyword": "Vue2",
+		"msg": {
+			"title": "Vue2",
+			"content": "渐进式JS框架2"
+		}
+	}
+]
